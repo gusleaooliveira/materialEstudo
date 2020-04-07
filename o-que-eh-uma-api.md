@@ -104,3 +104,10 @@ Assim, reutilizamos os código de terceiros, não precisando reproduzir e podend
 >  As apis, aceitam requisições que peçam dados através do método **GET**, podem enviar dados através do método **POST**, e deletando através do método **DELETE**, tendo outros médotos e que cada api usa de sua maneira.
 >
 > As **URI's**, como a do nosso exemplo, é um padrão parecido com as urls que digitamos no navegador, mas que servem para a comunicação com a API sendo um padrão a ser seguido.
+
+
+---
+# Criador
+Olá me chamo Gustavo, e criei este material, para mais informações, clique no link abaixo:
+
+* [LinkTree](https://www.linktree.com.br/gusleaooliveira)
