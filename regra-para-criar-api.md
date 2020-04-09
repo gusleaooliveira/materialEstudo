@@ -24,7 +24,33 @@ Se por exemplo acessarmos:
 
 Estaremos requisitando um recurso, que neste caso é o ```tarefas/``` que nos retorna as tarefas salvas no sistema. Logo podemos compreender que recursos são dados/informações, que por meio de requisições, podem ser cadastradas, alteradas, apagadas, e removidas.
 
+##### URI's
 
+URI's, ou Uniform Resource Identifier, nada mais são do que os identificadores dos recursos, como por exemplo:
+
+```tarefas/```
+
+Essas URI's seguem regras, tais como:
+
+* Cada recurso tenha sua **única** uri relacionada ao mesmo, por exemplo ```tarefas/```.
+
+* Caso os recursos sejam criados no plural (Ex.: ```tarefas/```), manter **todos** no plural, ou caso seja, escolhido no singular, manter todos em singular (Ex.: ```tarefa/```).
+
+* Também **não** manter uma uri singular para cada recurso, pois, para acessar um determinado recurso, será utilizado um id.
+
+  Exemplo do que não fazer: ```tarefa/``` e ```tarefas/```.
+
+* **Não** utilizar as **ações** nos nomes nas uri's, pois assim, não é possível reutilizar as mesmas.
+
+  Exemplo do que não fazer: ```getTarefas/```, ```alterTarefas/```, ```deleteTarefas/```, ```searchTarefas/```.
+
+  Para realizar requisições das ações anteriormente referidas, será utilizado os métodos HTTP, como os listados abaixo:
+  - **GET:** usado para acessar os dados do recurso.
+  - **POST:** usado para cadastrar dados no recurso.
+  - **PUT:** usado para alterar os dados no recurso.
+  - **DELETE:** usado para apagar os dados no recurso.
+
+  > **Obs.:** Existem outros métodos, e uma lista deles está em: [Lista de Métodos](https://www.w3schools.com/tags/ref_httpmethods.asp).
 
 ---
 # Criador
