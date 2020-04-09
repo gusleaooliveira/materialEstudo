@@ -45,12 +45,42 @@ Essas URI's seguem regras, tais como:
   Exemplo do que não fazer: ```getTarefas/```, ```alterTarefas/```, ```deleteTarefas/```, ```searchTarefas/```.
 
   Para realizar requisições das ações anteriormente referidas, será utilizado os métodos HTTP, como os listados abaixo:
+
   - **GET:** usado para acessar os dados do recurso.
   - **POST:** usado para cadastrar dados no recurso.
   - **PUT:** usado para alterar os dados no recurso.
   - **DELETE:** usado para apagar os dados no recurso.
 
+  Assim será utilizada a mesma uri para todas as ações. Abaixo, são mostrados exemplos, no formato **[ação] recurso/** :
+
+  - **[GET] tarefas/** retorna todas as tarefas
+  - **[GET] tarefas/10** retorna a tarefa de id 10
+  - **[DELETE] tarefas/5** apaga a tarefa de id 5
+  - **[POST] tarefas/** insere dados envidados na tarefa
+  - **[PUT] tarefas/3** altera os dados contidos na tarefa
+
   > **Obs.:** Existem outros métodos, e uma lista deles está em: [Lista de Métodos](https://www.w3schools.com/tags/ref_httpmethods.asp).
+
+#### Respostas para as requisições
+
+Para cada requisição feita, teremos uma determinada resposta:
+
+* **1xx:** Informações gerais  
+* **2xx:** Sucesso
+* **3xx:** Redirecionamento
+* **4xx:** Erro no cliente (quem fez a requisição)
+* **5xx:** Erro no servidor (erro no servidor que manipula a requisição).
+
+> Para mais informações descrevendo a lista das resposta das requisições [aqui](https://www.w3schools.com/tags/ref_httpmessages.asp).
+
+
+##### Representações
+
+As requisições podem ser retornadas em alguns tipos de representações:
+
+- html
+- json
+- xml
 
 ---
 # Criador
