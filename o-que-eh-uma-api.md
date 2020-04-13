@@ -108,6 +108,9 @@ Assim, reutilizamos os código de terceiros, não precisando reproduzir e podend
 
 ---
 # Criador
-Olá me chamo Gustavo, e criei este material, para mais informações, clique no link abaixo:
+Olá me chamo Gustavo, e criei este material, para mais informações, clique nos links abaixo:
 
 * [LinkTree](https://www.linktree.com.br/gusleaooliveira)
+
+
+* Disponivel em : [repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)
