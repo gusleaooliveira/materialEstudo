@@ -82,11 +82,12 @@ As requisições podem ser retornadas em alguns tipos de representações:
 - json
 - xml
 
----
+***
+
 # Criador
 Olá me chamo Gustavo, e criei este material, para mais informações, clique nos links abaixo:
 
 * [LinkTree](https://www.linktree.com.br/gusleaooliveira)
 
 
-* Disponivel em : [repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)
+* Disponível em : [Repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)

@@ -37,11 +37,12 @@ Três maneiras de afetar a integridade de uma informação podem ser:
 
 Caso esses dados não estejam disponíveis, pode haver perda de lucro, interrupção de atividade, perda de venda e pausa na produção.   
 
----
+***
+
 # Criador
 Olá me chamo Gustavo, e criei este material, para mais informações, clique nos links abaixo:
 
 * [LinkTree](https://www.linktree.com.br/gusleaooliveira)
 
 
-* Disponivel em : [repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)
+* Disponível em : [Repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)

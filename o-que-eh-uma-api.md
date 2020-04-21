@@ -105,12 +105,12 @@ Assim, reutilizamos os código de terceiros, não precisando reproduzir e podend
 >
 > As **URI's**, como a do nosso exemplo, é um padrão parecido com as urls que digitamos no navegador, mas que servem para a comunicação com a API sendo um padrão a ser seguido.
 
+***
 
----
 # Criador
 Olá me chamo Gustavo, e criei este material, para mais informações, clique nos links abaixo:
 
 * [LinkTree](https://www.linktree.com.br/gusleaooliveira)
 
 
-* Disponivel em : [repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)
+* Disponível em : [Repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)

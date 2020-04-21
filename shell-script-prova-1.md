@@ -268,7 +268,6 @@ sudo df -i > filtros/09-inodes.info
 >
 > Em distros baseadas em debian usam o ```sudo```.
 
-
 ***
 
 ## Tarefa 04:
@@ -389,7 +388,6 @@ systemd-analyze plot > runlevels/05-boot.svg
 >
 > Em distros baseadas em debian usam o ```sudo```.
 
-
 ***
 
 # Criador
@@ -398,4 +396,5 @@ Olá me chamo Gustavo, e criei este material, para mais informações, clique no
 * [LinkTree](https://www.linktree.com.br/gusleaooliveira)
 
 
-* Disponivel em : [repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)
+* Disponível em : [Repositório de exercícios](https://github.com/gusleaooliveira/materialEstudo)
+
