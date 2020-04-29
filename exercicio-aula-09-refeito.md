@@ -103,7 +103,7 @@ Sim, pois cada um dos tipos de algoritimos de hash, que calcula o hash são dife
 
 
 
-> O arquivo de exemplo fica em: [Local](../exemplos/arquivo.txt)
+> O arquivo de exemplo fica em: [Local](exemplos/arquivo.txt)
 
 ***
 
