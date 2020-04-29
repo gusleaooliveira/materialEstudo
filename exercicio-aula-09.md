@@ -16,7 +16,7 @@ Use um programa de hash para verificar a integridade dos dados.
 
 * PC com acesso à Internet 
 
-### Etapa 1: Crie um arquivo de texto a.
+### Etapa 1: Crie um arquivo de texto 
 
 1. - [x] Procure o programa Bloco de Notas em seu computador e abra-o.  
 1. - [x]  Digite algo. 
