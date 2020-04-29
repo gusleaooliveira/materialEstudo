@@ -1,0 +1,14 @@
+Exemplo de conteúdo:
+Antes do hash: 
+md5 => e71d67f9b08e8529ef791bfc2d150ce7
+sha1 => a6e7115956ccd567021b80dc826e63a60e5c11fd
+sha256 => 8f5360ec2e4fba0c0181f34af876d5fde50ff289a24437424889758be59a3094
+crc32 => ce806bc0
+
+-----------------------------------------------------------
+
+Depois do hash:
+md5 => 7fd8835d904efbc452915eb758f336e7
+sha1 => b6f8712baac42076e0b0835cfb9634d23e1c37ad
+sha256 => c52341bb0bfc2fe8f1a6e34d0e9bcb3f4ff439fa076d48493c7733be8cd2d46a
+crc32 => 955a3a17
