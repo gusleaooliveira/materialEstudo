@@ -1,39 +1,9 @@
-# Design Patterns
-## Singleton e Prototype
+## Prototype
+### Exemplo Prototype
 
+A primeira coisa que tem de ser feita para exemplificar o prototype, é criar um objeto.
 
-
-# Sumário
-
-[TOC]
-
-# Design Patterns
-
-## O que são?
-
-Padrões de projeto são arquiteturas testadas para construir softwares, de maneira que, quando aplicados, reduzem a complexidade do processo de design, construindo assim, softwares **orientados a objetos** flexíveis e sustentáveis. 
-
-Por ser uma coleção de padrões de projetos de software, já contém soluções para **problemas conhecidos** e recorrentes descrevendo de maneira comprovada como  resolver determinado problema **recorrente**.
-
-## Exemplos de Design Patterns
-
-Serão, aqui, tratados o **Singleton** e o  **Prototype**.
-
-### Singleton
-
-#### O que ele faz?
-
- 
-
-#### Exemplo de funcionamento:
-
-
-
-
-
-### Prototype
-
-
+É possível criar o objeto de várias maneiras, a maneira utilizada e recomendada é através de função, ficando:
 
 ***
 
